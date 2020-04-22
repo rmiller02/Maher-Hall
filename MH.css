@@ -1,0 +1,123 @@
+
+    body{
+                background-image: url('jelly.jpg');
+                min-height: 100vh;
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                margin: 0 auto;
+                color: white;
+            }
+
+      .jellyphoto{
+      position: cover;
+      min-height: 100vh;
+      min-width: 100vw;
+      top: 0;
+      bottom: 0;
+      background-color: rgba(31, 34, 118, 0.5);
+      background-size: cover;
+    }
+
+
+
+    .gap100 {
+      padding: 70px 0px;
+    }
+
+  .col-md-6{
+    color: white;
+  }
+
+  h2{
+    color: #ff5c5c;
+  }
+
+  h1{
+    color: #ff5c5c;
+  }
+
+ button{
+  background-color: #ff5c5c;
+  
+ }
+
+
+ * {
+    box-sizing: border-box;
+} 
+body {
+    background-color:#fff; 
+    background-image: url('jelly.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    color:#FF5C5C;
+    font-size: 32px;
+}
+h2{
+    color:#FF5C5C;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+p, a, div{
+    font-weight: 400;
+    text-align: center;
+    color:rgb(255, 254, 254);
+  }
+ul {
+    list-style-type: none;
+}
+li {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    font-size: 12px;
+    text-align: left;
+}  
+nav ul li {
+    font-size: 18px;
+}
+/* Classes */
+.header {
+    background-color:#161E67;
+}
+.navbar a{
+    color: #fff;
+}
+nav a:hover {
+     background-color:darkgrey; 
+}
+.footer {
+    background-color:#161E67;
+}
+.card-body {
+    background: #161E67;
+} 
+#button1 {
+    background: #161E67;
+    border: none;
+}
+.card-header {
+    font-size: 24px;
+  }
+.card-header, .card-footer {
+    background: #161E67;
+}
+.btn-primary {
+  background-color: #FF5C5C;
+}
+h5 {
+    text-align: justify;
+}
+.gap100 {
+    padding: 70px 0px;
+  }
+  button {
+      background-color: #FF5C5C;
+  }
